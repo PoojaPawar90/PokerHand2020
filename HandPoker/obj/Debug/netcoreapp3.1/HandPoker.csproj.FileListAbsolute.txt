@@ -1,0 +1,12 @@
+C:\Users\Pankaj Jagdale\Source\Repos\HandPoker\bin\Debug\netcoreapp3.1\HandPoker.exe
+C:\Users\Pankaj Jagdale\Source\Repos\HandPoker\bin\Debug\netcoreapp3.1\HandPoker.deps.json
+C:\Users\Pankaj Jagdale\Source\Repos\HandPoker\bin\Debug\netcoreapp3.1\HandPoker.runtimeconfig.json
+C:\Users\Pankaj Jagdale\Source\Repos\HandPoker\bin\Debug\netcoreapp3.1\HandPoker.runtimeconfig.dev.json
+C:\Users\Pankaj Jagdale\Source\Repos\HandPoker\bin\Debug\netcoreapp3.1\HandPoker.dll
+C:\Users\Pankaj Jagdale\Source\Repos\HandPoker\bin\Debug\netcoreapp3.1\HandPoker.pdb
+C:\Users\Pankaj Jagdale\Source\Repos\HandPoker\obj\Debug\netcoreapp3.1\HandPoker.AssemblyInfoInputs.cache
+C:\Users\Pankaj Jagdale\Source\Repos\HandPoker\obj\Debug\netcoreapp3.1\HandPoker.AssemblyInfo.cs
+C:\Users\Pankaj Jagdale\Source\Repos\HandPoker\obj\Debug\netcoreapp3.1\HandPoker.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj Jagdale\Source\Repos\HandPoker\obj\Debug\netcoreapp3.1\HandPoker.dll
+C:\Users\Pankaj Jagdale\Source\Repos\HandPoker\obj\Debug\netcoreapp3.1\HandPoker.pdb
+C:\Users\Pankaj Jagdale\Source\Repos\HandPoker\obj\Debug\netcoreapp3.1\HandPoker.genruntimeconfig.cache
